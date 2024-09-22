@@ -1,2 +1,2 @@
 # Java-Portfolio-CS300-UW
-Java projects from CS300 (Programming II) course at UW-Madison
+CS300 (Programming II) course Java projects at UW-Madison
